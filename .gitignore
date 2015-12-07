@@ -1,0 +1,16 @@
+#other
+Library/
+Temp/
+obj/
+
+UnityVS/
+UnityVS.meta
+UnityVS.*
+
+UnityVS.ElevatorCrysis.*
+
+Assembly-*.*
+
+
+*.suo
+
